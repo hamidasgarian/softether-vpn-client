@@ -19,8 +19,8 @@ git clone https://github.com/hamidasgarian/softether-vpn-connector.git
 
 cd softether-vpn-connector
 
-```bash
-bash -c "$(curl -sSL http://docs.basa.ir/vpn/linux/step1)" 0</dev/tty ```bash
+```
+bash -c "$(curl -sSL http://docs.basa.ir/vpn/linux/step1)" 0</dev/tty ```
 
 answer the following questions! 
 
