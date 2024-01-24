@@ -15,8 +15,9 @@ Secure Connection: Ensures a secure VPN connection, protecting your data and onl
 ## Usage
 Clone the Repository:
 
-```plaintext
+```
 git clone https://github.com/hamidasgarian/softether-vpn-connector.git 
+```
 
 cd softether-vpn-connector
 
