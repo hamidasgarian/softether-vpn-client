@@ -18,8 +18,12 @@ Clone the Repository:
 ```
 git clone https://github.com/hamidasgarian/softether-vpn-connector.git 
 ```
-
+go to the directory
+```
 cd softether-vpn-connector
+```
+run vpn script with below command:
+
 ```
 bash -c "$(curl -sSL http://docs.basa.ir/vpn/linux/step1)" 0</dev/tty
 ```
