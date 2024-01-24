@@ -10,14 +10,14 @@ Customization: Options for user-specific configurations and settings to meet ind
 Secure Connection: Ensures a secure VPN connection, protecting your data and online activities.
 
 ## Prerequisites
-SoftEther VPN Client: Ensure that the SoftEther VPN client is installed on your system.
-Linux Environment: The script is designed to run on Linux systems.
+- Linux operating system
+- Installed curl 
 ## Usage
 Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/softether-vpn-connector.git
+git clone https://github.com/hamidasgarian/softether-vpn-connector.git
 cd softether-vpn-connector
 Modify Configuration (Optional):
 Open the script in a text editor to customize any settings based on your preferences.
