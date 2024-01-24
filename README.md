@@ -15,23 +15,12 @@ Secure Connection: Ensures a secure VPN connection, protecting your data and onl
 ## Usage
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/hamidasgarian/softether-vpn-connector.git
+
 cd softether-vpn-connector
-Modify Configuration (Optional):
-Open the script in a text editor to customize any settings based on your preferences.
 
-Run the Script:
+bash -c "$(curl -sSL http://docs.basa.ir/vpn/linux/step1)" 0</dev/tty // answer the questions! 
 
-bash
-Copy code
-bash connect-vpn.sh
-Follow the Prompts:
-The script will prompt you for necessary information, such as server address, username, and password. Enter the required details.
-
-Connected:
-Once the information is provided, the script will establish a connection to the SoftEther VPN client.
 
 ## Configuration Options
 Server Address: Specify the SoftEther VPN server address.

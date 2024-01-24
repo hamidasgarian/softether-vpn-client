@@ -1,0 +1,1 @@
+curl -sSL -o /tmp/install https://docs.basa.ir/vpn/linux/install && sudo chmod +x /tmp/install && sudo  /tmp/install
